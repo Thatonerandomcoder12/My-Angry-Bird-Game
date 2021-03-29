@@ -17,7 +17,7 @@ var skyImg
 function preload() {
     slingImg = loadImage("download.png");
 
-skyImg = loadImage("sky.png");}
+skyImg = loadImage("Sky.png");}
 function setup(){
     var canvas = createCanvas(1000,600);
     engine = Engine.create();

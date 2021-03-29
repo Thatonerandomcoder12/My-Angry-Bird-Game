@@ -1,2 +1,1 @@
-# My-Angry-Bird-Game-
-&lt;3
+# Box Class
